@@ -69,14 +69,12 @@ Feature importance analysis showed that fetal heart rate variability and prolong
 │   └── fetal_health.csv
 │
 ├── code/
-│   └── fetal_health_analysis.Rmd
+│   └── ml_report_revised.Rmd
 │
 ├── figures/
 │   ├── confusion_matrix/
 │   ├── feature_importance/
 │   └── model_performance/
 │
-├── report/
-│   └── final_report.pdf
 │
 └── README.md
